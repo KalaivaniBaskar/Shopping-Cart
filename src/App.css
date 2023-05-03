@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+#cart{
+  display: none; 
+  position: fixed;
+  margin-top: 58px;
+  margin-right: 20px;
+} 
+.footer{
+  position: fixed;
+  width: 100%;
+  height: 5rem;
+  bottom: 0;
+}
+.remove-btn{
+  display: none;
+}
